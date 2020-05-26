@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{503DFD23-CDBB-48F2-BCBF-A0D6A69AB492}|Default">
+  <MonoDevelop.Ide.ItemProperties.EkspedisiJKL PreferredExecutionTarget="Test1" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="EkspedisiJKL/ViewController.cs">
+    <Files>
+      <File FileName="EkspedisiJKL/ViewController.cs" Line="19" Column="17" />
+      <File FileName="EkspedisiJKL/Main.cs" />
+      <File FileName="EkspedisiJKL/ViewController.designer.cs" Line="40" Column="23" />
+      <File FileName="EkspedisiJKL/Main.storyboard" Line="181" Column="5" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EkspedisiJKL" expanded="True">
+            <Node name="EkspedisiJKL" expanded="True">
+              <Node name="ViewController.cs" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

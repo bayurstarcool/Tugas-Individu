@@ -1,0 +1,15 @@
+/Users/bayur/Projects/Tugas-Individu/Tugas Kalkulator (MacOS)/Calculator.Mac/bin/Debug/Calculator.exe
+/Users/bayur/Projects/Tugas-Individu/Tugas Kalkulator (MacOS)/Calculator.Mac/bin/Debug/Calculator.pdb
+/Users/bayur/Projects/Tugas-Individu/Tugas Kalkulator (MacOS)/Calculator.Mac/bin/Debug/Calculator.dll
+/Users/bayur/Projects/Tugas-Individu/Tugas Kalkulator (MacOS)/Calculator.Mac/bin/Debug/Xamarin.Forms.Core.dll
+/Users/bayur/Projects/Tugas-Individu/Tugas Kalkulator (MacOS)/Calculator.Mac/bin/Debug/Xamarin.Forms.Platform.dll
+/Users/bayur/Projects/Tugas-Individu/Tugas Kalkulator (MacOS)/Calculator.Mac/bin/Debug/Xamarin.Forms.Platform.macOS.dll
+/Users/bayur/Projects/Tugas-Individu/Tugas Kalkulator (MacOS)/Calculator.Mac/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/bayur/Projects/Tugas-Individu/Tugas Kalkulator (MacOS)/Calculator.Mac/obj/Debug/actool/_PartialAppManifest.items
+/Users/bayur/Projects/Tugas-Individu/Tugas Kalkulator (MacOS)/Calculator.Mac/obj/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/bayur/Projects/Tugas-Individu/Tugas Kalkulator (MacOS)/Calculator.Mac/obj/Debug/Calculator.Mac.csprojAssemblyReference.cache
+/Users/bayur/Projects/Tugas-Individu/Tugas Kalkulator (MacOS)/Calculator.Mac/obj/Debug/Calculator.Mac.csproj.CoreCompileInputs.cache
+/Users/bayur/Projects/Tugas-Individu/Tugas Kalkulator (MacOS)/Calculator.Mac/obj/Debug/XamlC.stamp
+/Users/bayur/Projects/Tugas-Individu/Tugas Kalkulator (MacOS)/Calculator.Mac/obj/Debug/Calculator.Mac.csproj.CopyComplete
+/Users/bayur/Projects/Tugas-Individu/Tugas Kalkulator (MacOS)/Calculator.Mac/obj/Debug/Calculator.exe
+/Users/bayur/Projects/Tugas-Individu/Tugas Kalkulator (MacOS)/Calculator.Mac/obj/Debug/Calculator.pdb

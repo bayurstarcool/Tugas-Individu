@@ -1,0 +1,11 @@
+/Users/bayur/Projects/Tugas-Individu/Tugas Kalkulator (MacOS)/Calculator/bin/Debug/netstandard2.0/Calculator.deps.json
+/Users/bayur/Projects/Tugas-Individu/Tugas Kalkulator (MacOS)/Calculator/bin/Debug/netstandard2.0/Calculator.dll
+/Users/bayur/Projects/Tugas-Individu/Tugas Kalkulator (MacOS)/Calculator/bin/Debug/netstandard2.0/Calculator.pdb
+/Users/bayur/Projects/Tugas-Individu/Tugas Kalkulator (MacOS)/Calculator/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/bayur/Projects/Tugas-Individu/Tugas Kalkulator (MacOS)/Calculator/obj/Debug/netstandard2.0/Calculator.csproj.CoreCompileInputs.cache
+/Users/bayur/Projects/Tugas-Individu/Tugas Kalkulator (MacOS)/Calculator/obj/Debug/netstandard2.0/Calculator.AssemblyInfoInputs.cache
+/Users/bayur/Projects/Tugas-Individu/Tugas Kalkulator (MacOS)/Calculator/obj/Debug/netstandard2.0/Calculator.AssemblyInfo.cs
+/Users/bayur/Projects/Tugas-Individu/Tugas Kalkulator (MacOS)/Calculator/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/bayur/Projects/Tugas-Individu/Tugas Kalkulator (MacOS)/Calculator/obj/Debug/netstandard2.0/Calculator.dll
+/Users/bayur/Projects/Tugas-Individu/Tugas Kalkulator (MacOS)/Calculator/obj/Debug/netstandard2.0/Calculator.pdb
+/Users/bayur/Projects/Tugas-Individu/Tugas Kalkulator (MacOS)/Calculator/obj/Debug/netstandard2.0/Calculator.csprojAssemblyReference.cache

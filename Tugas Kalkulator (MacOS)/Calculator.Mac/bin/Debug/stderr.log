@@ -1,0 +1,14 @@
+2020-05-26 12:41:09.854 Calculator[7373:251261] 
+Unhandled Exception:
+AppKit.AppKitThreadAccessException: AppKit Consistency error: you are calling a method that can only be invoked from the UI thread.
+  at AppKit.NSApplication.EnsureUIThread () [0x0001e] in /Library/Frameworks/Xamarin.Mac.framework/Versions/6.16.0.11/src/Xamarin.Mac/AppKit/NSApplication.cs:102 
+  at AppKit.NSControl.get_Target () [0x00001] in /Library/Frameworks/Xamarin.Mac.framework/Versions/6.16.0.11/src/Xamarin.Mac/NSControl.g.cs:1403 
+  at AppKit.NSControl.remove_Activated (System.EventHandler value) [0x00001] in /Library/Frameworks/Xamarin.Mac.framework/Versions/6.16.0.11/src/Xamarin.Mac/AppKit/NSControl.cs:49 
+  at Xamarin.Forms.Platform.MacOS.ButtonRenderer.Dispose (System.Boolean disposing) [0x0000e] in <005e44b1362c494596dd1b2d83ee6958>:0 
+  at Foundation.NSObject.Finalize () [0x00002] in /Library/Frameworks/Xamarin.Mac.framework/Versions/6.16.0.11/src/Xamarin.Mac/Foundation/NSObject2.cs:143 
+[ERROR] FATAL UNHANDLED EXCEPTION: AppKit.AppKitThreadAccessException: AppKit Consistency error: you are calling a method that can only be invoked from the UI thread.
+  at AppKit.NSApplication.EnsureUIThread () [0x0001e] in /Library/Frameworks/Xamarin.Mac.framework/Versions/6.16.0.11/src/Xamarin.Mac/AppKit/NSApplication.cs:102 
+  at AppKit.NSControl.get_Target () [0x00001] in /Library/Frameworks/Xamarin.Mac.framework/Versions/6.16.0.11/src/Xamarin.Mac/NSControl.g.cs:1403 
+  at AppKit.NSControl.remove_Activated (System.EventHandler value) [0x00001] in /Library/Frameworks/Xamarin.Mac.framework/Versions/6.16.0.11/src/Xamarin.Mac/AppKit/NSControl.cs:49 
+  at Xamarin.Forms.Platform.MacOS.ButtonRenderer.Dispose (System.Boolean disposing) [0x0000e] in <005e44b1362c494596dd1b2d83ee6958>:0 
+  at Foundation.NSObject.Finalize () [0x00002] in /Library/Frameworks/Xamarin.Mac.framework/Versions/6.16.0.11/src/Xamarin.Mac/Foundation/NSObject2.cs:143 
