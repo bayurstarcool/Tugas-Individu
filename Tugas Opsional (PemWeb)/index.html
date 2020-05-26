@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<head> <title>Kalkulator V1</title> <script type="text/javascript" src="kalkulator.js"></script> </head> 
+<body> <h1>Kalkulator Sederhana dengan AJAX</h1> 
+<form name="form1"> 
+<!-- input bilangan pertama -->
+ <input type="text" id="bil1" /> 
+<!-- pilihan jenis operasi --> 
+<select id="operasi"> <option value="penjumlahan">dijumlahkan dengan</option> <option value="pengurangan">dikurangkan dengan</option> <option value="perkalian">dikalikan dengan</option> <option value="pembagian">dibagi dengan</option> </select> 
+<!-- input bilangan kedua --> 
+<input type="text" id="bil2" /><br /> 
+<!-- tombol hitung --> 
+<input type="button" value="Hitung" onclick="hitung()" /> </form> 
+<!-- bagian untuk menampilkan output --> 
+<p><div id="output"></div></p> 
+</body> </html
