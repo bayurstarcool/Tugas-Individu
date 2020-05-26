@@ -1,0 +1,12 @@
+/Users/bayur/Projects/EkspedisiJKL/EkspedisiJKL/bin/Debug/EkspedisiJKL.exe
+/Users/bayur/Projects/EkspedisiJKL/EkspedisiJKL/bin/Debug/EkspedisiJKL.pdb
+/Users/bayur/Projects/EkspedisiJKL/EkspedisiJKL/obj/Debug/actool/_PartialAppManifest.items
+/Users/bayur/Projects/EkspedisiJKL/EkspedisiJKL/obj/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/bayur/Projects/EkspedisiJKL/EkspedisiJKL/obj/Debug/ibtool-manifests/Main.storyboardc
+/Users/bayur/Projects/EkspedisiJKL/EkspedisiJKL/obj/Debug/ibtool/Main.storyboardc/MainMenu.nib
+/Users/bayur/Projects/EkspedisiJKL/EkspedisiJKL/obj/Debug/ibtool/Main.storyboardc/XfG-lQ-9wD-view-m2S-Jp-Qdl.nib
+/Users/bayur/Projects/EkspedisiJKL/EkspedisiJKL/obj/Debug/ibtool/Main.storyboardc/NSWindowController-B8D-0N-5wS.nib
+/Users/bayur/Projects/EkspedisiJKL/EkspedisiJKL/obj/Debug/ibtool/Main.storyboardc/Info.plist
+/Users/bayur/Projects/EkspedisiJKL/EkspedisiJKL/obj/Debug/EkspedisiJKL.csprojAssemblyReference.cache
+/Users/bayur/Projects/EkspedisiJKL/EkspedisiJKL/obj/Debug/EkspedisiJKL.exe
+/Users/bayur/Projects/EkspedisiJKL/EkspedisiJKL/obj/Debug/EkspedisiJKL.pdb
